@@ -11,7 +11,7 @@ I'm working on different freelance projects, and a few showcase projects
 ![Leetcode Stats](https://leetcard.jacoblin.cool/TetSigma)
 
 # GiitHub stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=TetSigma&theme=dark&hide_border=false)
+![Giithub Stats](https://github-readme-streak-stats.herokuapp.com/?user=TetSigma&theme=dark&hide_border=false)
 
 
 ---
