@@ -12,7 +12,7 @@ I'm working on different freelance projects, and a few showcase projects
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TetSigma&theme=dark)](https://git.io/streak-stats)
 
 # 📊 Leetcode Stats:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/TetSigma)]
+![Leetcode Stats](https://leetcard.jacoblin.cool/TetSigma)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TetSigma&icon=0&color=0)](https://visitcount.itsvg.in)
